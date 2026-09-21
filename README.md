@@ -73,9 +73,7 @@ All pinned below — go break them, then tell me how.
 <summary><b>📜 修行 · The Scrolls</b> — certifications, education, receipts</summary>
 
 <br/>
-<div align="center">
-<img src="https://raw.githubusercontent.com/Badal36/Badal36/main/assets/now-playing.svg" alt="Now playing on Spotify" />
-</div>
+
 **Certified in the arts**
 
 - Advanced Artificial Intelligence Workshop — IIT Bombay (Techfest) × GUVI-HCL
@@ -107,6 +105,7 @@ All pinned below — go break them, then tell me how.
 <div align="center">
 
 <picture>
+     <img src="https://raw.githubusercontent.com/Badal36/Badal36/main/assets/now-playing.svg" alt="Now playing on Spotify" />
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Badal36/Badal36/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Badal36/Badal36/output/github-contribution-grid-snake.svg" />
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Badal36/Badal36/output/github-contribution-grid-snake.svg" />
