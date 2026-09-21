@@ -18,7 +18,7 @@
 
 ## 自己紹介 · About
 
-Freelance SaaS developer building for Indian SMEs. I ship systems where the data has to stay honest — invoices, orders, risk scores — and I stick around after they ship. BS Data Science @ IIT Madras, between deploys.
+Freelance SaaS developer building for Indian SMEs. I ship systems where the data has to stay honest — invoices, orders, risk scores — and I stick around after they ship. Some Coffee sips, between deploys.
 
 | | |
 |---|---|
