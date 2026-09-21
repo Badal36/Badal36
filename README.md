@@ -8,7 +8,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&background=ffffff&color=000000&center=true&vCenter=true&width=640&height=130&lines=%3E%20whoami;badal%20patel%20%E2%80%94%20anand%2C%20gujarat%2C%20india;%3E%20systemctl%20status%20badal;%E2%97%8F%20active%20(running)%20%E2%80%94%20uptime%2099.98%25" alt="terminal" />
 
-<img src="https://raw.githubusercontent.com/Badal36/Badal36/main/assets/now-playing.svg" alt="Now playing on Spotify" />
+
 
 <img src="https://komarev.com/ghpvc/?username=Badal36&style=flat-square&color=ffffff&label=guests+received" alt="visitors" />
 
@@ -74,6 +74,8 @@ All pinned below — go break them, then tell me how.
 
 <br/>
 
+<img src="https://raw.githubusercontent.com/Badal36/Badal36/main/assets/now-playing.svg" alt="Now playing on Spotify" />
+
 **Certified in the arts**
 
 - Advanced Artificial Intelligence Workshop — IIT Bombay (Techfest) × GUVI-HCL
@@ -84,8 +86,6 @@ All pinned below — go break them, then tell me how.
 - Machine Learning Training — Acmegrade
 
 **The dojo**
-
-- BS Data Science & Programming — IIT Madras *(online degree, qualifier stage)*
 - B.Tech AI/ML — Woxsen University. Left after year two to ship software full-time
 - HPC, Science stream — Knowledge High School, Nadiad
 - No degree on the wall yet. The servers never asked for one.
