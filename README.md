@@ -1,73 +1,121 @@
-<!-- Top Animated Typing Header -->
+<!-- ==================================================================
+     BADAL PATEL — github.com/Badal36
+     FINAL. No manual edits, no tokens, no setup. Paste and commit.
+     ================================================================== -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=190&text=BADAL%20PATEL&fontSize=55&fontColor=000000&fontAlignY=36&desc=SaaS%20builder%20%E2%80%A2%20data%20%26%20ops%20support%20%E2%80%A2%20BS%20Data%20Science%2C%20IIT%20Madras&descSize=14&descAlignY=56&descColor=333333" width="100%" alt="badal patel" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&background=ffffff&color=000000&center=true&vCenter=true&width=640&height=130&lines=%3E%20whoami;badal%20patel%20%E2%80%94%20anand%2C%20gujarat%2C%20india;%3E%20systemctl%20status%20badal;%E2%97%8F%20active%20(running)%20%E2%80%94%20uptime%2099.98%25" alt="terminal" />
+
+<img src="https://komarev.com/ghpvc/?username=Badal36&style=flat-square&color=ffffff&label=guests+received" alt="visitors" />
+
+</div>
+
+・━━━━━━━━ ⚔ ━━━━━━━━・
+
+## 自己紹介 · About
+
+Freelance SaaS developer building for Indian SMEs. I ship systems where the data has to stay honest — invoices, orders, risk scores — and I stick around after they ship. BS Data Science @ IIT Madras, between deploys.
+
+| | |
+|---|---|
+| 🏯 **Where** | VV Nagar, Anand — the milk city |
+| ⚒️ **Now** | Freelance SaaS · BS Data Science @ IIT Madras *(qualifier stage)* |
+| 🔥 **Craft** | Full-stack builds · data validation · schema design · automation |
+| 🗣️ **Tongues** | English · ગુજરાતી · हिन्दी |
+| 🧭 **Status** | Open to part-time & flexible work — data, ops, builds |
+
+## 作品 · The Works
+
+| Build | The one-line truth |
+|---|---|
+| **TableFlow** | QR-based restaurant ordering SaaS — Next.js 14 · Supabase Realtime · JWT + MSG91 OTP. Prototype complete, live client demo delivered |
+| **GST Invoice Generator** | End-to-end billing for Malhar Organic — React 19 · FastAPI · MongoDB. Live financial data, validation that refuses a wrong digit |
+| **PhishGuard** | Chrome extension (Manifest V3) — URL heuristics, DOM analysis, risk scoring. Google Safe Browsing + PhishTank APIs |
+| **SENTINEL** | Intelligence dashboard in a single HTML file — Three.js 3D globe, live market feeds, country risk scoring, AI briefs |
+
+All pinned below — go break them, then tell me how.
+
+## 武器庫 · The Arsenal
+
+**The build stack**
+
+![React](https://img.shields.io/badge/React_19-ffffff?style=for-the-badge&logo=react&logoColor=000000)
+![Next.js](https://img.shields.io/badge/Next.js_14-ffffff?style=for-the-badge&logo=nextdotjs&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&logo=typescript&logoColor=000000)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-ffffff?style=for-the-badge&logo=tailwindcss&logoColor=000000)
+![FastAPI](https://img.shields.io/badge/FastAPI-ffffff?style=for-the-badge&logo=fastapi&logoColor=000000)
+![Node.js](https://img.shields.io/badge/Node.js-ffffff?style=for-the-badge&logo=nodedotjs&logoColor=000000)
+![Python](https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=000000)
+
+**Data & tooling**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-ffffff?style=for-the-badge&logo=mongodb&logoColor=000000)
+![Supabase](https://img.shields.io/badge/Supabase-ffffff?style=for-the-badge&logo=supabase&logoColor=000000)
+![Three.js](https://img.shields.io/badge/Three.js-ffffff?style=for-the-badge&logo=threedotjs&logoColor=000000)
+![n8n](https://img.shields.io/badge/n8n-ffffff?style=for-the-badge&logo=n8n&logoColor=000000)
+![Postman](https://img.shields.io/badge/Postman-ffffff?style=for-the-badge&logo=postman&logoColor=000000)
+![Git](https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=000000)
+
+**Field craft**
+
+![Data](https://img.shields.io/badge/Data_validation-zero_tolerance-ffffff?style=flat-square)
+![Schema](https://img.shields.io/badge/Schema_design-audit_ready-ffffff?style=flat-square)
+![Bugs](https://img.shields.io/badge/Bug_hunting-in_production-ffffff?style=flat-square)
+![GST](https://img.shields.io/badge/GST_tax_logic-zero_wrong_invoices-ffffff?style=flat-square)
+![PDF](https://img.shields.io/badge/PDF_reports-generated_not_typed-ffffff?style=flat-square)
+![Automation](https://img.shields.io/badge/n8n_automation-glue_for_everything-ffffff?style=flat-square)
+
+<details>
+<summary><b>📜 修行 · The Scrolls</b> — certifications, education, receipts</summary>
+
+<br/>
+
+**Certified in the arts**
+
+- Advanced Artificial Intelligence Workshop — IIT Bombay (Techfest) × GUVI-HCL
+- Programming for Everybody (Python) — University of Michigan / Coursera
+- Crash Course on Python — Google / Coursera
+- Java: Solving Problems with Software — Duke University / Coursera
+- Data Structures Using Python — Packt / Coursera
+- Machine Learning Training — Acmegrade
+
+**The dojo**
+
+- BS Data Science & Programming — IIT Madras *(online degree, qualifier stage)*
+- B.Tech AI/ML — Woxsen University. Left after year two to ship software full-time
+- HPC, Science stream — Knowledge High School, Nadiad
+- No degree on the wall yet. The servers never asked for one.
+
+</details>
+
+## 連絡 · Find Me
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3ECF8E&center=true&vCenter=true&width=500&lines=Hi,+I'm+Badal+(Rock+Heart)+👋;+Full-Stack+Architect+&+Builder;+Founder+of+TableFlow;+Data+Science+@+IIT+Madras" alt="Typing SVG" />
+  <a href="https://www.linkedin.com/in/rockheart036"><img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=000000" alt="linkedin" /></a>
+  <a href="https://x.com/rockheart036"><img src="https://img.shields.io/badge/X-ffffff?style=for-the-badge&logo=x&logoColor=000000" alt="x / twitter" /></a>
+  <a href="https://www.instagram.com/rockheart036"><img src="https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=000000" alt="instagram" /></a>
+  <a href="https://rockheart036.substack.com"><img src="https://img.shields.io/badge/Substack-ffffff?style=for-the-badge&logo=substack&logoColor=000000" alt="substack" /></a>
+  <a href="https://www.youtube.com/@rockheart036"><img src="https://img.shields.io/badge/YouTube-ffffff?style=for-the-badge&logo=youtube&logoColor=000000" alt="youtube" /></a>
+  <a href="https://www.reddit.com/user/rockheart036"><img src="https://img.shields.io/badge/Reddit-ffffff?style=for-the-badge&logo=reddit&logoColor=000000" alt="reddit" /></a>
+  <a href="mailto:badalp4143@gmail.com"><img src="https://img.shields.io/badge/badalp4143%40gmail.com-ffffff?style=for-the-badge&logo=gmail&logoColor=000000" alt="email" /></a>
 </p>
 
----
+<div align="center">
 
-<table align="center" border="0" width="100%">
-  <tr>
-    <td width="55%" valign="top">
-      <h3>⚡ Who Am I</h3>
-      <p>
-        I'm a self-taught full-stack architect and systems builder based out of Gujarat, India. I spend my time engineering production-grade web infrastructure, building automated workflows, and reverse-engineering complex backend patterns. 
-      </p>
-      <p>
-        Currently scaling <b>TableFlow</b> (a real-time restaurant ordering and POS ecosystem) and studying Data Science at IIT Madras, balancing rigorous statistical models with high-performance web engineering.
-      </p>
-      
-      <h3>🛠️ Core Engineering Stack</h3>
-      <ul>
-        <li><b>Languages:</b> TypeScript, Python, JavaScript, SQL</li>
-        <li><b>Frontend:</b> Next.js 14 (App Router), React 19, Tailwind CSS</li>
-        <li><b>Backend & DB:</b> FastAPI, Node.js, Supabase (Realtime, Auth, RLS), PostgreSQL, MongoDB</li>
-        <li><b>Infrastructure:</b> Docker, n8n Automation Agents, Git, Linux, Vercel</li>
-      </ul>
-    </td>
-    <td width="45%" align="center" valign="middle">
-      <!-- You can replace this raw link with your hosted logo image path once pushed to your repo -->
-      <img src="https://raw.githubusercontent.com/Badal36/Badal36/main/MyPFPLogo_optimized_1000.png" width="360" alt="Rock Heart Avatar" style="border-radius: 12px;" />
-      <p align="center"><i>"Coffee fuels this mess." ☕</i></p>
-    </td>
-  </tr>
-</table>
+<br/>
 
----
+*千日の稽古を鍛とし、万日の稽古を錬とす*
 
-### 🚀 Active Systems & Projects
+**"A thousand days of practice to forge. Ten thousand days to polish."**
+— old kenjutsu proverb
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4><b><a href="https://github.com/Badal36">TableFlow</a></b></h4>
-      <p>Founder & Lead Architect</p>
-      <p>A production-ready QR-based digital restaurant ordering and POS engine built for commercial scale. Features real-time kitchen syncing, secure JWT session auth, and strict PostgreSQL Row-Level Security.</p>
-      <p><code>Next.js 14</code> &nbsp; <code>Supabase Realtime</code> &nbsp; <code>Tailwind</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><b>Commercial GST & Billing Engine</b></h4>
-      <p>Contract Software Developer</p>
-      <p>Engineered automated tax invoice generators and localized commercial billing software integrating modern React frontends with high-throughput FastAPI microservices.</p>
-      <p><code>React 19</code> &nbsp; <code>FastAPI</code> &nbsp; <code>MongoDB</code></p>
-    </td>
-  </tr>
-</table>
+<br/>
 
----
+**終**
 
-### 📊 GitHub Metrics & Activity
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=80&section=footer" width="100%" alt="" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Badal36&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/top-langs/?username=Badal36&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Badal36&theme=tokyonight&hide_border=true" width="100%" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=60&section=footer" width="100%" />
-</p>
+</div>
