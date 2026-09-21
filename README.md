@@ -5,7 +5,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=190&text=BADAL%20PATEL&fontSize=55&fontColor=000000&fontAlignY=36&desc=SaaS%20builder%20%E2%80%A2%20data%20%26%20ops%20support%20%E2%80%A2%20BS%20Data%20Science%2C%20IIT%20Madras&descSize=14&descAlignY=56&descColor=333333" width="100%" alt="badal patel" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&background=ffffff&color=000000&center=true&vCenter=true&width=640&height=130&lines=%3E%20whoami;badal%20patel%20%E2%80%94%20anand%2C%20gujarat%2C%20india;%3E%20systemctl%20status%20badal;%E2%97%8F%20active%20(running)%20%E2%80%94%20uptime%2099.98%25" alt="terminal" />
 
