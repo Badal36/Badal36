@@ -73,9 +73,9 @@ All pinned below — go break them, then tell me how.
 <summary><b>📜 修行 · The Scrolls</b> — certifications, education, receipts</summary>
 
 <br/>
-
+<div align="center">
 <img src="https://raw.githubusercontent.com/Badal36/Badal36/main/assets/now-playing.svg" alt="Now playing on Spotify" />
-
+</div>
 **Certified in the arts**
 
 - Advanced Artificial Intelligence Workshop — IIT Bombay (Techfest) × GUVI-HCL
