@@ -1,77 +1,73 @@
-<div align="center">
+<!-- Top Animated Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3ECF8E&center=true&vCenter=true&width=500&lines=Hi,+I'm+Badal+(Rock+Heart)+👋;+Full-Stack+Architect+&+Builder;+Founder+of+TableFlow;+Data+Science+@+IIT+Madras" alt="Typing SVG" />
+</p>
 
-<img src="./assets/banner.svg" alt="BUDDY - AI Engineer and growth builder. Building autonomous AI agents, SaaS for restaurants, and growth systems for SME brands." width="100%" />
+---
 
-**I build autonomous AI agents, ship SaaS products, and run growth systems for small businesses.**
-<br />
-AI Engineer · Gujarat, India · IIT Madras BS in Data Science
+<table align="center" border="0" width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <h3>⚡ Who Am I</h3>
+      <p>
+        I'm a self-taught full-stack architect and systems builder based out of Gujarat, India. I spend my time engineering production-grade web infrastructure, building automated workflows, and reverse-engineering complex backend patterns. 
+      </p>
+      <p>
+        Currently scaling <b>TableFlow</b> (a real-time restaurant ordering and POS ecosystem) and studying Data Science at IIT Madras, balancing rigorous statistical models with high-performance web engineering.
+      </p>
+      
+      <h3>🛠️ Core Engineering Stack</h3>
+      <ul>
+        <li><b>Languages:</b> TypeScript, Python, JavaScript, SQL</li>
+        <li><b>Frontend:</b> Next.js 14 (App Router), React 19, Tailwind CSS</li>
+        <li><b>Backend & DB:</b> FastAPI, Node.js, Supabase (Realtime, Auth, RLS), PostgreSQL, MongoDB</li>
+        <li><b>Infrastructure:</b> Docker, n8n Automation Agents, Git, Linux, Vercel</li>
+      </ul>
+    </td>
+    <td width="45%" align="center" valign="middle">
+      <!-- You can replace this raw link with your hosted logo image path once pushed to your repo -->
+      <img src="https://raw.githubusercontent.com/Badal36/Badal36/main/MyPFPLogo_optimized_1000.png" width="360" alt="Rock Heart Avatar" style="border-radius: 12px;" />
+      <p align="center"><i>"Coffee fuels this mess." ☕</i></p>
+    </td>
+  </tr>
+</table>
 
-</div>
+---
 
-<img src="./assets/divider.svg" alt="" width="100%" />
+### 🚀 Active Systems & Projects
 
-<img src="./assets/h-player.svg" alt="Player select" width="100%" />
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4><b><a href="https://github.com/Badal36">TableFlow</a></b></h4>
+      <p>Founder & Lead Architect</p>
+      <p>A production-ready QR-based digital restaurant ordering and POS engine built for commercial scale. Features real-time kitchen syncing, secure JWT session auth, and strict PostgreSQL Row-Level Security.</p>
+      <p><code>Next.js 14</code> &nbsp; <code>Supabase Realtime</code> &nbsp; <code>Tailwind</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><b>Commercial GST & Billing Engine</b></h4>
+      <p>Contract Software Developer</p>
+      <p>Engineered automated tax invoice generators and localized commercial billing software integrating modern React frontends with high-throughput FastAPI microservices.</p>
+      <p><code>React 19</code> &nbsp; <code>FastAPI</code> &nbsp; <code>MongoDB</code></p>
+    </td>
+  </tr>
+</table>
 
-|   |   |
-|:--|:--|
-| 🎮 **Class** | AI Engineer |
-| 🗺️ **Home base** | Gujarat, India |
-| 🏫 **Guild** | IIT Madras, BS in Data Science |
-| ⚔️ **Main quest** | Autonomous agents and SaaS products |
-| 🧪 **Side quest** | Digital marketing and business-growth systems for SME clients |
+---
 
-<img src="./assets/h-quests.svg" alt="Quest log" width="100%" />
+### 📊 GitHub Metrics & Activity
 
-<!-- Private repo? Point the link at a demo, case study, or write-up instead, or drop the link. A dead link is worse than no link. -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Badal36&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/top-langs/?username=Badal36&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" width="48%" />
+</p>
 
-| Quest | What it is |
-|:--|:--|
-| 👾 **[TableFlow](https://github.com/YOUR_USERNAME/tableflow)** | QR-based, multi-tenant restaurant ordering SaaS. Built as a real product, intended for sale. |
-| 🕹️ **[Antigravity](https://github.com/YOUR_USERNAME/antigravity)** | Custom Windows/PowerShell agent framework, built around GCOS: a Goal-Closed Operating System architecture. |
-| 📡 **[SENTINEL](https://github.com/YOUR_USERNAME/sentinel)** | Single-file OSINT intelligence dashboard. |
-| 🎨 **[ΛRCΛNΞ](https://github.com/YOUR_USERNAME/arcane)** | Pixel-art terminal mascot, plus the image-generation prompt architecture behind it. |
-| 🏭 **Dark Factory** *(blueprint stage)* | Design for a fully AI-run company: a multi-agent org (CEO, CFO, Banker, Corporate Attorney and more) with defined escalation paths. |
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Badal36&theme=tokyonight&hide_border=true" width="100%" />
+</p>
 
-<img src="./assets/h-inventory.svg" alt="Inventory" width="100%" />
+---
 
-<!-- Only list what you would be comfortable being interviewed on. Cut anything you can't defend. -->
-
-| | |
-|:--|:--|
-| **Languages** | `Python` `JavaScript` `PowerShell` `HTML/CSS` |
-| **Agents and AI** | `LLM APIs` `multi-agent orchestration` `prompt architecture` `image-generation pipelines` |
-| **Product** | `multi-tenant SaaS` `QR ordering flows` `dashboards` |
-| **Growth** | `digital marketing` `social media marketing` `SME growth strategy` |
-
-<img src="./assets/h-scores.svg" alt="High scores" width="100%" />
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/stats.svg" alt="GitHub stats card: public repositories, stars earned, followers, years on GitHub, and top languages by repository count." width="100%" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-  <img alt="Contribution graph rendered as a snake game eating commits." src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" width="100%" />
-</picture>
-
-<sub>Public activity only. Private work does not show up here.</sub>
-
-</div>
-
-<img src="./assets/h-continue.svg" alt="Continue?" width="100%" />
-
-**Insert coin to collaborate.** Pick the path that fits:
-
-| If you are... | Do this |
-|:--|:--|
-| 🧑‍💼 **Hiring for AI engineering** | [Email me](mailto:YOUR_EMAIL?subject=Hiring%20-%20AI%20Engineering), and start with the Quest Log above. |
-| 📈 **A business that needs growth** | [Email me](mailto:YOUR_EMAIL?subject=Growth%20-%20Business%20Enquiry) with what you sell and who you sell to. |
-| 🤝 **Building agents or forming a hackathon team** | [Email me](mailto:YOUR_EMAIL?subject=Collab%20-%20Agents) with what you are building. |
-
-[LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN) · [Website](https://YOUR_SITE?utm_source=github&utm_medium=profile&utm_campaign=readme)
-
-<img src="./assets/divider.svg" alt="" width="100%" />
-
-<div align="center">
-<sub>Every image on this page is a self-hosted SVG drawn by <a href="./scripts/pixel.py">scripts/pixel.py</a>. No third-party image servers. Stats refresh every 12 hours through GitHub Actions.</sub>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=60&section=footer" width="100%" />
+</p>
